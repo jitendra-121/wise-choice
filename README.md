@@ -31,7 +31,7 @@ It is acheived by :
         2. Detecting Paid Reviews
         3. Evaluating Price Fairness
 
-For more information regarding the Project, visit : https://techwithnikith.hashnode.dev/wisechoice-an-intelligent-shopping-companion-for-smart-decision-making
+
 
 
 SETUP
@@ -51,7 +51,7 @@ to setup the Project Wisechoice in your system, you only need to follow 3 steps.
 
 3) Download the joblib file from below link and place it in backend-server directory
 
-        https://drive.google.com/drive/u/1/folders/1z2MCfuIaRLS6kblz7E4uj6P-4IXmdHqv
+       
 
 
 Now the setup is done. To run the Application,
@@ -69,4 +69,4 @@ Now the setup is done. To run the Application,
     then after a while it says ready and provides a link 'http://localhost:3000'. navigate to that link from a browser to use the application.
 
 
->>>>>>> 22a2918 (initial commit)
+
